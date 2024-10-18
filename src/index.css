@@ -1,0 +1,12 @@
+.mainButton{
+  background-color: black;
+  color: white;
+  font-size: 12px;
+ transition: 0.2s;
+ transform: scale(1);
+}
+.mainButton:hover{
+  transition: 0.2s;
+  transform: scale(1.1);
+  background-color: darkgray;
+}
